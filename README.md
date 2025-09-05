@@ -3,6 +3,7 @@ Google Calendar Create Event MCP tool that lets your AI voice agents schedule ev
 
 
 WATCH THIS FOR FULL INTEGRATION👇
+
 [](https://youtu.be/hNytZ4DPlus?si=NhbDBRlNO_SdcN_C)](https://youtu.be/hNytZ4DPlus?si=NhbDBRlNO_SdcN_C)
 
 # 📅 Google Calendar Event Creation - Complete User Guide
